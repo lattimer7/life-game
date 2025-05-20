@@ -68,25 +68,25 @@ const gameData = {
           outcomes: [
             { text: "Audience (imaginary) laughs harder at yours.", points: 2 },
             { text: "Your joke landed well! High five.", points: 1 },
-            { text: "Your joke bombed, hers landed.", points: -1 }
+            { text: "Your joke bombed, Barrett's landed.", points: -1 }
           ]
         },
         {
           id: "roast2",
           text: "You're like champagne—expensive taste and constant headaches.",
           outcomes: [
-            { text: "Perfect delivery! She's laughing hard.", points: 3 },
-            { text: "Decent comeback. She's amused.", points: 1 },
-            { text: "She out-roasted you with a better comeback.", points: -1 }
+            { text: "Perfect delivery! He's laughing hard.", points: 3 },
+            { text: "Decent comeback. He's amused.", points: 1 },
+            { text: "He out-roasted you with a better comeback.", points: -1 }
           ]
         },
         {
           id: "roast3",
-          text: "I'd roast you harder, but you're already Australian.",
+          text: "I'd roast you harder, but you're already a New Yorker.",
           outcomes: [
-            { text: "Australian joke for the win! She can't stop laughing.", points: 3 },
+            { text: "New York joke for the win! He can't stop laughing.", points: 3 },
             { text: "Got a good chuckle. Well played.", points: 1 },
-            { text: "She threw back a New York joke that was better.", points: -1 }
+            { text: "I'd roast you harder, but you're already a Australian.", points: -1 }
           ]
         }
       ]
