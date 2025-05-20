@@ -2,7 +2,7 @@
   "name": "life-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lattimer7.github.io/birthday-battle-royale",
+  "homepage": "https://lattimer7.github.io/life-game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
