@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/life-game/static/css/main.76f2ad72.css",
-    "main.js": "/life-game/static/js/main.2ec3cefa.js",
-    "static/js/453.c56418ad.chunk.js": "/life-game/static/js/453.c56418ad.chunk.js",
-    "index.html": "/life-game/index.html",
-    "main.76f2ad72.css.map": "/life-game/static/css/main.76f2ad72.css.map",
-    "main.2ec3cefa.js.map": "/life-game/static/js/main.2ec3cefa.js.map",
-    "453.c56418ad.chunk.js.map": "/life-game/static/js/453.c56418ad.chunk.js.map"
+    "main.css": "/birthday-battle-royale/static/css/main.e24572c9.css",
+    "main.js": "/birthday-battle-royale/static/js/main.6cc010da.js",
+    "static/js/453.c56418ad.chunk.js": "/birthday-battle-royale/static/js/453.c56418ad.chunk.js",
+    "index.html": "/birthday-battle-royale/index.html",
+    "main.e24572c9.css.map": "/birthday-battle-royale/static/css/main.e24572c9.css.map",
+    "main.6cc010da.js.map": "/birthday-battle-royale/static/js/main.6cc010da.js.map",
+    "453.c56418ad.chunk.js.map": "/birthday-battle-royale/static/js/453.c56418ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76f2ad72.css",
-    "static/js/main.2ec3cefa.js"
+    "static/css/main.e24572c9.css",
+    "static/js/main.6cc010da.js"
   ]
 }
